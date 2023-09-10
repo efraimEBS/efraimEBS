@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">  
-<a href="https://https://https://www.linkedin.com/in/efraim-elielson-07a0351a1///" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://https://www.linkedin.com/in/efraim-elielson-07a0351a1////" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
 ### Main skills:
